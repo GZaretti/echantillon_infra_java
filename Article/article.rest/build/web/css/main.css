@@ -1,0 +1,12 @@
+@import "normalize.css";
+
+body {
+    margin: 1%;
+}
+
+table { border: 1px solid black; 
+        border-collapse: collapse; 
+        width: 900px;} 
+th, td { border: 1px solid black;    vertical-align: top;
+         text-align: left;
+} 

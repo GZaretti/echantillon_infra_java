@@ -1,0 +1,27 @@
+[ {
+  "link" : {
+    "rel" : "self",
+    "href" : "http://host/context/articles/1.html"
+  },
+  "id" : 1,
+  "nom" : "AGRAFEUSE",
+  "poids" : 150.0,
+  "couleur" : "ROUGE",
+  "qteStock" : 10,
+  "prixAchat" : 20,
+  "prixVente" : 29,
+  "version" : 0
+}, {
+  "link" : {
+    "rel" : "self",
+    "href" : "http://host/context/articles/2.html"
+  },
+  "id" : 2,
+  "nom" : "CALCULATRICE",
+  "poids" : 150.0,
+  "couleur" : "NOIR",
+  "qteStock" : 5,
+  "prixAchat" : 200,
+  "prixVente" : 235,
+  "version" : 0
+} ]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/article.rest">
+  <Resource auth="Container" driverClassName="org.postgresql.Driver" 
+            maxActive="200" maxIdle="10" maxWait="-1" name="jdbc/db" 
+            password="article" type="javax.sql.DataSource" 
+            url="jdbc:postgresql://db.local:5432/articlerestdb" 
+            username="artilce"/>
+</Context>

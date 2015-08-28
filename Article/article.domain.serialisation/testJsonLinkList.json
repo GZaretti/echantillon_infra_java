@@ -1,0 +1,7 @@
+[ {
+  "rel" : "self",
+  "href" : "http://localhost/campanule/test.json"
+}, {
+  "rel" : "next",
+  "href" : "http://localhost/campanule/test2.json"
+} ]
